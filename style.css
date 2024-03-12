@@ -1,0 +1,17 @@
+p{
+  color: aquamarine;  
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+}
+#par{
+    color:brown
+}
+#name{
+    color: blueviolet;
+}
+.about{
+    background-color: blue;
+}
+#image{
+    color: aqua;
+}
